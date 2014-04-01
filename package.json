@@ -1,0 +1,32 @@
+{
+  "name": "node-db-evolution",
+  "version": "0.0.0",
+  "description": "A node module for Database evolutions",
+  "main": "app.js",
+  "dependencies": {
+    "pg": "~2.11.1",
+    "underscore": "^1.6.0",
+    "pacta": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LefebvreArnaud/node-database-evolution.git"
+  },
+  "keywords": [
+    "Database",
+    "evolution",
+    "migration",
+    "mysql",
+    "postgresql"
+  ],
+  "author": "Lefebvre Arnaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LefebvreArnaud/node-database-evolution/issues"
+  },
+  "homepage": "https://github.com/LefebvreArnaud/node-database-evolution"
+}
